@@ -1,0 +1,3 @@
+# x-ray-tomography
+
+This is a project I put together a while ago. It simulates x-ray absorption images, including beam hardening effects, and uses a backprojection algorithm to reconstruct the specimen from the images. I'm not sure what I'm going to do with it yet, but I plan on tidying up the code and adding some additional functionality, as well as appropriate documentation, to make it useful for something.
